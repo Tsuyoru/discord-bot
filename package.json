@@ -2,12 +2,11 @@
   "name": "Luminescent",
   "description": "Luminescent guild personal bot",
   "version": "1.0.0",
-  "main": "bot.js",
+  "main": "testbot.py",
   "scripts": {
-    "start": "node bot.js"
+    "start": "py testbot.py"
   },
   "dependencies": {
-    "discord.js": "11.1.0",
-    "request": "2.81.0"
+    "discord.py": "1.0.0"
   }
 }
